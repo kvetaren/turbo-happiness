@@ -10,9 +10,6 @@
         <p>You will learn more about media queries and responsive web design later in our CSS Tutorial.</p>
         <h4>Resize the browser window to see the effect.</h4>
       </section>
-      <?php
-          include_once "form1.php";
-       ?>
     </article>
     <aside>
       <h1>Plan de la ville</h1>

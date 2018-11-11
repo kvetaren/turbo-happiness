@@ -12,7 +12,7 @@
     <div class="topnav">
     <ul>
         <li class="active"><a href="#">Hicho</a></li>
-        <li><a href="#">Picho</a></li>
+        <li><a href="register.php">JoinUs</a></li>
         <li><a href="#">Pipin</a></li>
         <li class = "right"><a href="form.php">Pissso</a></li>
     </ul>
